@@ -17,13 +17,14 @@ La société a grossi organiquement (en recrutant de nouveaux salariés), mais a
 ## Problématique
 
 Afin d'organiser son activité au quotidien et à court terme, les managers de la société se connectent à de nombreuses sources différentes de données :
-    - des fichiers plats de logs, répartis sur plusieurs dizaines de serveurs
-    - des logs enregistrés au niveau système, soit côté Windows, soit côté Linux
-    - de très nombreuses métriques sont collectées par plusieurs agents installés sur les machines (postes clients et serveurs), qui renvoient chacun à des systèmes différents (GLPI, Grafana, Centréon)
-    - des exports de base de données, au format CSV, qu'ils importent dans Excel pour les traiter
-    - des interfaces web développées en interne, pour se connecter à des API mises à disposition par les fournisseurs (OVH, mailjet, Arkhineo, etc)
-    - l'ERP de l'entreprise, basé sur Dolibar
-    - un outil interne de gestion des compétences
+
+  - des fichiers plats de logs, répartis sur plusieurs dizaines de serveurs
+  - des logs enregistrés au niveau système, soit côté Windows, soit côté Linux
+  - de très nombreuses métriques sont collectées par plusieurs agents installés sur les machines (postes clients et serveurs), qui renvoient chacun à des systèmes différents (GLPI, Grafana, Centréon)
+  - des exports de base de données, au format CSV, qu'ils importent dans Excel pour les traiter
+  - des interfaces web développées en interne, pour se connecter à des API mises à disposition par les fournisseurs (OVH, mailjet, Arkhineo, etc)
+  - l'ERP de l'entreprise, basé sur Dolibar
+  - un outil interne de gestion des compétences
     
 Les décisions stratégiques sont prises sur la base de PKI remontés par les managers lors des CoPil/ComEx, dans des diaporamas PowerPoint.
 Ils sont ensuite transmis au format Excel aux dirigeants.
@@ -55,7 +56,10 @@ Votre cabinet de conseil a donc été missionné pour étudider les solutions su
 ## Organisation du travail
 
 4 groupes :
+
   - groupe 1 : 4 apprenants, travaillent sur les solutions open-source
   - groupe 2 : 4 apprenants, travaillent sur les solutions propriétaires
   - groupe 3 : 3 apprenants, travaillent sur Azure
   - groupe 4 : 3 apprenants, travaillent sur AWS
+
+# Au boulot !
